@@ -54,3 +54,7 @@ Want to add your Sri Lankan dev project? Open a PR!
 ---
 
 > Built by the Sri Lankan dev community. Star this repo to show support!
+
+<!-- DL Code Badge -->
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
